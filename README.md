@@ -28,3 +28,8 @@ cd newnop-assignment
 npm install
 npm run dev
 ```
+
+## Video
+
+https://github.com/user-attachments/assets/2bb2179a-9b76-42e7-9afb-ab4200d40934
+
