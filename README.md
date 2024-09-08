@@ -1,21 +1,30 @@
-# HELLO PEOPLE
+# HELLO PEOPLE 👋
 
 ## Description
 
-해당 웹사이트는 Random User API에서 50명의 정보를 받아와 화면에 띄우는 웹사이트입니다.
+Random User API에서 50명의 정보를 받아와 화면에 띄우는 웹사이트입니다.
+
+## Prerequisites
+
+- [Node.js](https://nodejs.org/en)
 
 ## Installation
 
-1. 레포지토리를 클론한다
+1. 레포지토리를 클론한다.
 
 ```bash
 git clone https://github.com/jyjyeon/newnop-assignment.git
+```
+
+2. 해당 프로젝트 디렉토리로 이동한다.
+
+```bash
 cd newnop-assignment
 ```
 
-2. 터미널창에 다음을 입력한다.
+3. 다음을 입력해 프로젝트를 실행한다.
 
 ```bash
 npm install
-npm start
+npm run dev
 ```
