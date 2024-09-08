@@ -4,10 +4,10 @@ import {
   loadDataFromLocalStorage,
 } from "../../utils/localStorageUtils";
 import "./style.css";
-import Card from "../../components/Card";
-import SearchBar from "../../components/SearchBar";
-import Error from "../Error";
-import Loading from "../Loading";
+import Card from "../../components/Card/card";
+import SearchBar from "../../components/SearchBar/searchBar";
+import Error from "../Error/Error";
+import Loading from "../Loading/Loading";
 import { VscTriangleLeft } from "react-icons/vsc";
 import { VscTriangleRight } from "react-icons/vsc";
 

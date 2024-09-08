@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import "./style.css";
-import Modal from "../Modal";
+import Modal from "../Modal/modal";
 
 const Card = ({ userData }) => {
   const [isOpen, setIsOpen] = useState(false);
