@@ -51,6 +51,7 @@ export default function Profile({ setUserData }) {
       `${user.name.first} ${user.name.last}`.toLowerCase().includes(input)
     );
     setFilteredUsers(filtered);
+    setCurrentPage(1);
   };
 
   //sort users by name (asc/dec)
